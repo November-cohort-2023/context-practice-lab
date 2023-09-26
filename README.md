@@ -38,6 +38,15 @@ In this iteration, we want to encapsulate my entire application with the auth pr
 
 In the Navabr component retrieve the context (using useContext) and replace the <p>USERNAME</p> with the actual value stored in the context representing the username.
 
+Before:
+
+![image](https://github.com/May-Cohort-Code/context-practice-lab/assets/54825038/049fa0da-60ab-428c-8d7f-25d3b0866893)
+
+After:
+
+![image](https://github.com/May-Cohort-Code/context-practice-lab/assets/54825038/59556e90-afc6-4c8c-a54b-7cd2e19f6936)
+
+
 ### Iteration 4: Retrieve the context in the Homepage component
 
 Now we can retrieve the same context value in our Homepage component. In this component you want to retrieve the context the same way as the previous iteration and replace the USERNAME to the context value containing the username
