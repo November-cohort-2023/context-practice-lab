@@ -28,7 +28,7 @@ For this iteration you must create two parts of your context:
 1. Firstly, create the context using createContext
 2. secondly, create the provider component that we will use in the next iteration to allow my entire application to use my context.
 
-   ** HINT: the value of the loggedInUser should be a state and that state should be one of the values for my context**
+   ** HINT: the value of the loggedInUser should be a state and that state should be one of the values for my context **
 
 
 ### Iteration 2: Wrap the entire application with our context provider
