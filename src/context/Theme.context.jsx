@@ -16,4 +16,4 @@ function ThemeProviderWrapper(props) {
   )
 }
  
-export { ThemeContext, ThemeProviderWrapper };   // <== UPDATE
+export { ThemeContext, ThemeProviderWrapper };
